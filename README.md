@@ -4,6 +4,7 @@
 4. use the proper exceptions handeling in the program.
 
 HomWork:
+
 Handling Array Index Out of Bounds Exception:
 Write a Java program that creates an array of integers and prompts the user to enter an index. 
 -	Attempt to access the element at the specified index in the array.
