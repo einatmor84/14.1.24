@@ -8,6 +8,7 @@ Class Exercise:
 HomWork:
 
 Handling Array Index Out of Bounds Exception:
+
 Write a Java program that creates an array of integers and prompts the user to enter an index. 
 -	Attempt to access the element at the specified index in the array.
 -	Implement multiple catch blocks to handle different types of exceptions, such as ArrayIndexOutOfBoundsException, InputMismatchException, and any other relevant exceptions
